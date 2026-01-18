@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Vidu Thilakarathne
 
-Welcome to my GitHub profile! I'm an enthusiastic undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**, diving deep into the world of software development. I love building cool projects, solving problems, and learning new tech along the way.
+Welcome to my GitHub profile! I'm an enthusiastic Data Science undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**, diving deep into the world of software development. I love building cool projects, solving problems, and learning new tech along the way.
 
 ---
 
