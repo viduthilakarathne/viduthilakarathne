@@ -204,11 +204,11 @@ A full-stack mobile application for a bookstore and reader community. It support
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viduthilakarathne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vidu's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viduthilakarathne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viduthilakarathne&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viduthilakarathne&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=viduthilakarathne&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=viduthilakarathne&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -218,7 +218,7 @@ A full-stack mobile application for a bookstore and reader community. It support
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=viduthilakarathne&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=viduthilakarathne&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 
 </div>
 
