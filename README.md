@@ -14,6 +14,9 @@
   <a href="https://github.com/viduthilakarathne">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <p align="center">
+  <img src="images/coding.gif" alt="Coding Animation" width="450">
+</p>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=viduthilakarathne&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -214,18 +217,7 @@ alt="GitHub Stars" />
 
 </div>
 
----
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=viduthilakarathne&theme=tokyo-night&hide_border=true"
-alt="Vidu Thilakarathne's Contribution Graph"
-/>
-
-</div>
 ---
 
 ## 📊 Contribution Activity
