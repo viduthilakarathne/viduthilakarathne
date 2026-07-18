@@ -28,7 +28,7 @@ I am a **Data Science undergraduate at the Sri Lanka Institute of Information Te
 
 I enjoy transforming real-world data into meaningful insights, building intelligent applications, and developing end-to-end solutions that combine data science with modern software technologies.
 
-- 🎓 Third-year **BSc (Hons) in Information Technology – Data Science**
+- 🎓  **BSc (Hons) in Information Technology (Hon) Data Science**
 - 📊 Interested in **Data Science, Machine Learning, Business Intelligence, and Big Data**
 - 🤖 Exploring **Generative AI, RAG systems, AI agents, and LLM applications**
 - 🧠 Building projects in **Computer Vision, Predictive Analytics, and Deep Learning**
