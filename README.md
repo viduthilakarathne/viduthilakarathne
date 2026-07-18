@@ -199,29 +199,33 @@ A full-stack mobile application for a bookstore and reader community. It support
 - Learning model deployment, monitoring, and MLOps practices
 
 ---
-
-## 📈 GitHub Statistics
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viduthilakarathne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://komarev.com/ghpvc/?username=viduthilakarathne&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+alt="Profile Views" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viduthilakarathne&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/github/followers/viduthilakarathne?label=Followers&style=for-the-badge&logo=github"
+alt="GitHub Followers" />
 
-<img src="https://streak-stats.demolab.com?user=viduthilakarathne&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/github/stars/viduthilakarathne?affiliations=OWNER&style=for-the-badge&logo=github"
+alt="GitHub Stars" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=viduthilakarathne&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=viduthilakarathne&theme=tokyo-night&hide_border=true"
+alt="Vidu Thilakarathne's Contribution Graph"
+/>
 
 </div>
-
 ---
 
 ## 📊 Contribution Activity
