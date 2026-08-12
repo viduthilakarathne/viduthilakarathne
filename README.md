@@ -2,7 +2,7 @@
 
 # Hi there, I'm Vidu Thilakarathne 👋
 
-### Data Science Undergraduate | Aspiring Data Scientist | Machine Learning & AI Enthusiast
+### Data Science Undergraduate | Aspiring Data Scientist | AIML Researcher 
 
 <p>
   <a href="https://www.linkedin.com/in/vidu-thilakarathne/">
