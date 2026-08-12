@@ -148,6 +148,13 @@ I enjoy transforming real-world data into meaningful insights, building intellig
 
 ## 🚀 Featured Projects
 
+### 📄  University Student Education Support AI Agent
+
+A multi-user document chatbot that allows users to upload PDFs, store documents, retrieve relevant chunks, and generate context-aware answers using Retrieval-Augmented Generation.
+
+**Technologies:** Python, Streamlit, LangChain, Groq, Supabase, FAISS, Sentence Transformers
+
+
 ### 🩻 Chest X-Ray Disease Classification
 
 A two-stage deep learning system that first identifies whether a chest X-ray is normal or abnormal and then classifies abnormal cases into disease categories.
@@ -161,15 +168,6 @@ A two-stage deep learning system that first identifies whether a chest X-ray is 
 A machine learning system that predicts wine quality using physicochemical properties. The project includes preprocessing, feature engineering, model comparison, hyperparameter tuning, and performance evaluation.
 
 **Technologies:** Python, Pandas, Scikit-learn, XGBoost, CatBoost, Matplotlib
-
----
-
-### 📄 Advanced RAG Chatbot
-
-A multi-user document chatbot that allows users to upload PDFs, store documents, retrieve relevant chunks, and generate context-aware answers using Retrieval-Augmented Generation.
-
-**Technologies:** Python, Streamlit, LangChain, Groq, Supabase, FAISS, Sentence Transformers
-
 ---
 
 ### 🚢 UK Port Shipping Analytics and Forecasting
@@ -177,14 +175,6 @@ A multi-user document chatbot that allows users to upload PDFs, store documents,
 An analytics platform that processes UK shipping data, predicts future port activity, displays results on an interactive map, and produces automated PDF reports.
 
 **Technologies:** Python, Flask, Random Forest, TimeSeriesSplit, Pandas, Google Maps API, ReportLab
-
----
-
-### 🏦 FinSight Lanka – Financial Analytics Dashboard
-
-A professional Power BI dashboard that analyses customer activity, loan behaviour, KYC completion, retention, cross-selling opportunities, and regional performance.
-
-**Technologies:** Power BI, DAX, Excel, Python, Pandas
 
 ---
 
